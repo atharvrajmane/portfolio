@@ -35,7 +35,7 @@ const Footer = () => {
             { icon: <FaGithub />, link: "https://github.com/atharvrajmane" },
             {
               icon: <FaLinkedin />,
-              link: "https://www.linkedin.com/in/dwivediprakhar/",
+              link: "https://www.linkedin.com/in/atharv-rajmane/",
             },
             {
               icon: <SiLeetcode />,

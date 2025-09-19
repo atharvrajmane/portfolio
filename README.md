@@ -1,4 +1,4 @@
-# 3D Developer Portfolio - Atharv Rajmane
+# Developer Portfolio - Atharv Rajmane
 
 
 A stunning, interactive 3D portfolio built with modern web technologies to showcase my skills and projects as a Computer Engineer. The site is fully responsive and features interactive 3D models, smooth animations, and a functional contact form.
